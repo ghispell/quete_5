@@ -1,3 +1,4 @@
+LOCAL
 # quete_5
 Je met du texte. 
 Parce qu'il faut.
